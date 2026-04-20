@@ -164,7 +164,7 @@ This work replicates and extends:
 
 ```
 .
-├── Untitled3_(2).ipynb   ← Main experiment notebook
+├── Double_prompting_updated  ← Main experiment notebook
 ├── README.md             ← This file
 └── n_repetition_master_plot.png  ← Generated after running experiment
 ```
@@ -173,5 +173,6 @@ This work replicates and extends:
 
 ## 👤 Author
 
-**Gautam** — B.Tech CSE (AI), IIIT Ranchi  
-ML Research Intern | Applied GenAI Engineer
+**Deepanshu Gautam** — B.Tech CSE (AI), IIIT Ranchi  
+**Pankaj Jangid**— B.Tech CSE (AI), IIIT Ranchi  
+**Aagman**— B.Tech CSE (AI), IIIT Ranchi  
